@@ -1,0 +1,5 @@
+new file text1.txt
+
+Hello
+
+tamagawa
