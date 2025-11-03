@@ -7,8 +7,8 @@ tamagawa
 
 -----------seiji---------
 
-public class Tk(){
-	public static void main(str[]){
-	System.out.plintln("Hello yuta");
+public class Email(){
+	public static void main(String[] ags){
+	System.out.plintln("Good morning Yuta");
 	}
 }
