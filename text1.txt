@@ -3,3 +3,12 @@ new file text1.txt
 Hello
 
 tamagawa
+
+
+-----------seiji---------
+
+public class Tk(){
+	public static void main(str[]){
+	System.out.plintln("Hello yuta");
+	}
+}
